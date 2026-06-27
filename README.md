@@ -48,12 +48,6 @@ I'm a Biochemistry undergraduate with a strong interest in Artificial Intelligen
 - NumPy
 - Matplotlib
 - Scikit-learn
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamnaasif263-lang&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamnaasif263-lang&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ## 🚀 Currently Working On
 
